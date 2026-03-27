@@ -3,3 +3,6 @@ Un biotecnologo en clases de programacion.
 .
 .
 bjbh
+sebastian cando 
+ingenieria en biotecnologia 
+aprender programacion 
