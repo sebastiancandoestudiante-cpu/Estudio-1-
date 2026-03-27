@@ -1,5 +1,5 @@
 # Estudio-1-
-Un biotecnologo en clases de programacion.
-.
-.
-bjbh
+Gustos 
+miel 
+helado 
+chaulafan 
